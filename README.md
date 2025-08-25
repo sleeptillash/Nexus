@@ -5,7 +5,11 @@
 This is a real-time chat application built with React and Socket.io. The app allows users to engage in real-time conversations with features such as group chats, notifications, and more.
 <br><br/>
 
-https://github.com/user-attachments/assets/dbdb685b-f0e6-4fa7-9523-2c9307519ecf
+
+
+https://github.com/user-attachments/assets/6c7c3147-dba7-48d8-91d4-6448cfeb70a2
+
+
 
 ## Features
 - **Real-time Messaging**: Instant messaging using Socket.io.
