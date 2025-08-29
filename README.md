@@ -10,7 +10,6 @@ This is a real-time chat application built with React and Socket.io. The app all
 https://github.com/user-attachments/assets/6c7c3147-dba7-48d8-91d4-6448cfeb70a2
 
 
-
 ## Features
 - **Real-time Messaging**: Instant messaging using Socket.io.
 - **User Authentication**: Secure user login and registration.
@@ -35,8 +34,8 @@ https://github.com/user-attachments/assets/6c7c3147-dba7-48d8-91d4-6448cfeb70a2
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chat-app.git
-   cd chat-app
+   git clone https://github.com/sleeptillash/Nexus.git
+   cd Nexus-main
    
 2. Install dependencies: (run in root folder) 
    ```bash
